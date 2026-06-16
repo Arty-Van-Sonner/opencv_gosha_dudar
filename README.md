@@ -1,3 +1,3 @@
 # opencv_gosha_dudar
 
-Learning Python OpenCV / Lesson #3 – Creating Objects and Outputting Information
+Learning Python OpenCV / Lesson #4 – Image Transformation Functions
