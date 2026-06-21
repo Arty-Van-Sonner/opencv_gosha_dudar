@@ -1,3 +1,3 @@
 # opencv_gosha_dudar
 
-Learning Python OpenCV / Lesson #5 – Color Formats
+Learning Python OpenCV / Lesson #6 – Bitwise Operations and Masks
